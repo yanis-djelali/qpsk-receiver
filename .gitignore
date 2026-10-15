@@ -1,0 +1,4 @@
+*.mat
+*.asv
+*.swp
+__pycache__/
